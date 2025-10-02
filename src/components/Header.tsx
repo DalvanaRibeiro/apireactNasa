@@ -1,4 +1,3 @@
-import React from "react";
 
 // Componente simples de cabeçalho
 export default function Header() {
